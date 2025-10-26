@@ -162,20 +162,12 @@ The app uses TailwindCSS for styling with:
 - Check debouncing is working properly
 - Look for JavaScript errors in console
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
+This project was inspired by and learned from the [JSMastery React Course](https://jsmastery.com/video-kit/dd0f1153-ba7f-44c9-a450-0acdb954902b). I implemented my own version of the movie search app based on the concepts and techniques taught in the course.
+
+Special thanks to:
+- [JSMastery](https://jsmastery.com/) for the excellent React tutorial and guidance
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the movie data API
 - [Appwrite](https://appwrite.io/) for the backend database services
 - [React](https://reactjs.org/) and [Vite](https://vitejs.dev/) for the amazing development experience
